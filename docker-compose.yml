@@ -1,0 +1,24 @@
+version: '3'
+
+services:
+  flask:
+    build:
+      context: .
+      dockerfile: Dockerfile_python
+    container_name: flask_container
+    tty: true
+    volumes: 
+      - ./app:/usr/src/app
+    ports:
+      - "5050:5000"
+  vue:
+    build:
+      context: .
+      dockerfile: Dockerfile_vue
+    image: vue_container
+    container_name: vue_container
+    tty: true
+    volumes: 
+      - ./app:/app
+    ports:
+      - "8080:8080"
