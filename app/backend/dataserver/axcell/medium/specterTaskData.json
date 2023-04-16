@@ -1,0 +1,1419 @@
+{
+    "Training Neural Networks with Stochastic Hessian-Free Optimization": {
+        "citation": [
+            "No more pesky learning rates",
+            "Big neural networks waste capacity",
+            "Krylov subspace descent for deep learning"
+        ],
+        "citationOfCitation": []
+    },
+    "Learning to Diversify via Weighted Kernels for Classifier Ensemble": {
+        "citation": [
+            "Kernel methods in machine learning"
+        ],
+        "citationOfCitation": []
+    },
+    "Simultaneous Model Selection and Optimization through Parameter-free  Stochastic Learning": {
+        "citation": [
+            "Regularization in kernel learning",
+            "Statistical performance of support vector machines"
+        ],
+        "citationOfCitation": []
+    },
+    "How Many Workers to Ask? Adaptive Exploration for Collecting High  Quality Labels": {
+        "citation": [
+            "Adaptive crowdsourcing algorithms for the bandit survey problem"
+        ],
+        "citationOfCitation": []
+    },
+    "Personalized Web Search": {
+        "citation": [
+            "Thompson sampling for contextual bandits with linear payoffs"
+        ],
+        "citationOfCitation": []
+    },
+    "Optimal Multiple Testing Under a Gaussian Prior on the Effect Sizes": {
+        "citation": [
+            "Weighted hypothesis testing"
+        ],
+        "citationOfCitation": []
+    },
+    "ParseNet: Looking Wider to See Better": {
+        "citation": [
+            "Going deeper with convolutions",
+            "Fully convolutional networks for semantic segmentation",
+            "Conditional random fields as recurrent neural networks",
+            "Fully connected deep structured networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Personalized PageRank Estimation and Search: A Bidirectional Approach": {
+        "citation": [
+            "Fast-ppr: Scaling personalized pagerank estimation for large graphs",
+            "Fast bidirectional probability estimation in markov models"
+        ],
+        "citationOfCitation": []
+    },
+    "Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning": {
+        "citation": [
+            "Do deep nets really need to be deep?",
+            "Fitnets: Hints for thin deep nets",
+            "Distilling the knowledge in a neural network"
+        ],
+        "citationOfCitation": []
+    },
+    "Learning Binary Codes and Binary Weights for Efficient Classification": {
+        "citation": [
+            "Supervised discrete hashing",
+            "Learning hash functions using column generation"
+        ],
+        "citationOfCitation": []
+    },
+    "Resnet in Resnet: Generalizing Residual Architectures": {
+        "citation": [
+            "Training very deep networks",
+            "Learning longer memory in recurrent neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Gaussian Process Domain Experts for Model Adaptation in Facial Behavior  Analysis": {
+        "citation": [
+            "Learning with augmented features for heterogeneous domain adaptation"
+        ],
+        "citationOfCitation": []
+    },
+    "Weighted Spectral Cluster Ensemble": {
+        "citation": [
+            "Wisdom of crowds cluster ensemble"
+        ],
+        "citationOfCitation": []
+    },
+    "Generating and Exploiting Large-scale Pseudo Training Data for Zero  Pronoun Resolution": {
+        "citation": [
+            "Teaching machines to read and comprehend"
+        ],
+        "citationOfCitation": []
+    },
+    "Sifting Common Information from Many Variables": {
+        "citation": [
+            "The information sieve",
+            "The information bottleneck method",
+            "Exact common information",
+            "Intersection information based on common randomness",
+            "Representation learning: A review and new perspectives"
+        ],
+        "citationOfCitation": []
+    },
+    "End-to-End Comparative Attention Networks for Person Re-identification": {
+        "citation": [
+            "Action recognition using visual attention"
+        ],
+        "citationOfCitation": []
+    },
+    "No Need to Pay Attention: Simple Recurrent Neural Networks Work! (for  Answering \"Simple\" Questions)": {
+        "citation": [
+            "Natural language processing (almost) from scratch"
+        ],
+        "citationOfCitation": []
+    },
+    "Model-Free Trajectory-based Policy Optimization with Monotonic  Improvement": {
+        "citation": [
+            "Trust region policy optimization"
+        ],
+        "citationOfCitation": []
+    },
+    "Semi-Coupled Two-Stream Fusion ConvNets for Action Recognition at  Extremely Low Resolutions": {
+        "citation": [
+            "Learning spatiotemporal features with 3d convolutional networks",
+            "Studying very low resolution recognition using deep networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Semi-supervised Graph Embedding Approach to Dynamic Link Prediction": {
+        "citation": [
+            "Latent space models for dynamic networks",
+            "Nonparametric link prediction in large scale dynamic networks",
+            "A separable model for dynamic networks",
+            "DecLiNe -- models for decay of links in networks",
+            "Temporal link prediction using matrix and tensor factorizations"
+        ],
+        "citationOfCitation": []
+    },
+    "Neural Symbolic Machines: Learning Semantic Parsers on Freebase with  Weak Supervision": {
+        "citation": [
+            "Reward augmented maximum likelihood for neural structured prediction",
+            "Learning to compose neural networks for question answering",
+            "Deep reinforcement learning for dialogue generation",
+            "Neural programmer: Inducing latent programs with gradient descent",
+            "Learning to skim text",
+            "Optimal ordered problem solver",
+            "Sequence level training with recurrent neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Human-In-The-Loop Person Re-Identification": {
+        "citation": [
+            "Unsupervised learning of visual representations using videos",
+            "Facenet: A unified embedding for face recognition and clustering",
+            "Deep metric learning via lifted structured feature embedding"
+        ],
+        "citationOfCitation": []
+    },
+    "Compressed Sensing using Generative Models": {
+        "citation": [
+            "Adversarially learned inference",
+            "Towards understanding the invertibility of convolutional neural networks",
+            "Precise recovery of latent vectors from generative adversarial networks",
+            "Adversarial feature learning",
+            "Signal recovery on incoherent manifolds",
+            "Inverting the generator of a generative adversarial network"
+        ],
+        "citationOfCitation": []
+    },
+    "Social Fingerprinting: detection of spambot groups through DNA-inspired  behavioral modeling": {
+        "citation": [
+            "Uncovering social network sybils in the wild",
+            "The rise of social bots",
+            "Fame for sale: Efficient detection of fake Twitter followers"
+        ],
+        "citationOfCitation": []
+    },
+    "Intrinsic Motivation and Automatic Curricula via Asymmetric Self-Play": {
+        "citation": [
+            "Adversarial learning for neural dialogue generation",
+            "Automatic goal generation for reinforcement learning agents",
+            "Hindsight experience replay",
+            "Reverse curriculum generation for reinforcement learning",
+            "Robust adversarial reinforcement learning"
+        ],
+        "citationOfCitation": []
+    },
+    "An End-to-End Approach to Natural Language Object Retrieval via  Context-Aware Deep Reinforcement Learning": {
+        "citation": [
+            "Modeling context in referring expressions",
+            "DenseCap: Fully convolutional localization networks for dense captioning",
+            "Natural language object retrieval",
+            "Modeling context between objects for referring expression understanding",
+            "Grounding of textual phrases in images by reconstruction",
+            "Generation and comprehension of unambiguous object descriptions",
+            "Show and tell: A neural image caption generator",
+            "Asynchronous methods for deep reinforcement learning",
+            "Fast R-CNN",
+            "Active object localization with deep reinforcement learning"
+        ],
+        "citationOfCitation": []
+    },
+    "From Deep to Shallow: Transformations of Deep Rectifier Networks": {
+        "citation": [
+            "On the expressive power of deep learning: A tensor analysis",
+            "Learning functions: When is deep better than shallow",
+            "Residual networks behave like ensembles of relatively shallow networks",
+            "On the number of linear regions of deep neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "TS-LSTM and Temporal-Inception: Exploiting Spatiotemporal Dynamics for  Activity Recognition": {
+        "citation": [
+            "Learning spatiotemporal features with 3d convolutional networks",
+            "Actions ~ transformations",
+            "Beyond short snippets: Deep networks for video classification"
+        ],
+        "citationOfCitation": []
+    },
+    "Deep Multimodal Representation Learning from Temporal Data": {
+        "citation": [
+            "Correlational neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Joint Semantic and Motion Segmentation for dynamic scenes using Deep  Convolutional Networks": {
+        "citation": [
+            "Semantic motion segmentation using dense crf formulation",
+            "Flying objects detection from a single moving camera",
+            "Learning to segment moving objects in videos",
+            "Flownet: Learning optical flow with convolutional networks",
+            "Semantic image segmentation via deep parsing network"
+        ],
+        "citationOfCitation": []
+    },
+    "Distributed Algorithms for Feature Extraction Off-loading in  Multi-Camera Visual Sensor Networks": {
+        "citation": [
+            "Faster and better: A machine learning approach to corner detection"
+        ],
+        "citationOfCitation": []
+    },
+    "AVA: A Video Dataset of Spatio-temporally Localized Atomic Visual  Actions": {
+        "citation": [
+            "Visual semantic role labeling",
+            "The Kinetics human action video dataset",
+            "Finding action tubes",
+            "Tube convolutional neural network (T-CNN) for action detection in videos",
+            "UCF101: A dataset of 101 human actions classes from videos in the wild",
+            "Quo vadis, action recognition? A new model and the Kinetics dataset"
+        ],
+        "citationOfCitation": []
+    },
+    "Extraction and Classification of Diving Clips from Continuous Video  Footage": {
+        "citation": [
+            "Fast R-CNN",
+            "Finding action tubes",
+            "Beyond short snippets: Deep networks for video classification"
+        ],
+        "citationOfCitation": []
+    },
+    "e-QRAQ: A Multi-turn Reasoning Dataset and Simulator with Explanations": {
+        "citation": [
+            "Microsoft coco: Common objects in context",
+            "A large annotated corpus for learning natural language inference",
+            "Graying the black box: Understanding dqns",
+            "A survey of current datasets for vision and language research",
+            "Grad-cam: Why did you say that?",
+            "A model explanation system: Latest updates and extensions",
+            "Making tree ensembles interpretable",
+            "Teaching machines to read and comprehend"
+        ],
+        "citationOfCitation": []
+    },
+    "A Framework for Visually Realistic Multi-robot Simulation in Natural  Environment": {
+        "citation": [
+            "Unrealcv: Connecting computer vision to unreal engine",
+            "Learning physical intuition of block towers by example"
+        ],
+        "citationOfCitation": []
+    },
+    "Neural Network Dynamics for Model-Based Deep Reinforcement Learning with  Model-Free Fine-Tuning": {
+        "citation": [
+            "Prediction and control with temporal segment models",
+            "Learning continuous control policies by stochastic value gradients"
+        ],
+        "citationOfCitation": []
+    },
+    "Subset Selection with Shrinkage: Sparse Linear Modeling when the SNR is  low": {
+        "citation": [
+            "Nearly unbiased variable selection under minimax concave penalty",
+            "Best subset selection via a modern optimization lens",
+            "False discoveries occur early on the lasso path"
+        ],
+        "citationOfCitation": []
+    },
+    "Deep and Confident Prediction for Time Series at Uber": {
+        "citation": [
+            "Nonlinear systems identification using deep dynamic neural networks",
+            "Variational bayesian inference with stochastic search",
+            "Bayesian recurrent neural networks",
+            "Weight uncertainty in neural networks",
+            "Concrete dropout"
+        ],
+        "citationOfCitation": []
+    },
+    "Beyond SIFT using Binary features for Loop Closure Detection": {
+        "citation": [
+            "Orb-slam: a versatile and accurate monocular slam system"
+        ],
+        "citationOfCitation": []
+    },
+    "Variational Memory Addressing in Generative Models": {
+        "citation": [
+            "Learning to generate with memory",
+            "Towards a neural statistician",
+            "Generative temporal models with memory",
+            "Fast adaptation in generative models with generative matching networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Dense RGB-D semantic mapping with Pixel-Voxel neural network": {
+        "citation": [
+            "Fully convolutional networks for semantic segmentation",
+            "Conditional random fields as recurrent neural networks",
+            "Da-rnn: Semantic mapping with data associated recurrent neural networks",
+            "Learning deconvolution network for semantic segmentation"
+        ],
+        "citationOfCitation": []
+    },
+    "Building Chatbots from Forum Data: Model Selection Using Question  Answering Metrics": {
+        "citation": [
+            "Neural machine translation by jointly learning to align and translate",
+            "Sequence to sequence learning with neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Temporal and Physical Reasoning for Perception-Based Robotic  Manipulation": {
+        "citation": [
+            "Semantic scene completion from a single depth image"
+        ],
+        "citationOfCitation": []
+    },
+    "Contextual-based Image Inpainting: Infer, Match, and Translate": {
+        "citation": [
+            "Improved training of wasserstein gans",
+            "Context encoders: Feature learning by inpainting",
+            "Conditional image generation with pixelcnn decoders",
+            "Semantic image inpainting with deep generative models",
+            "A neural algorithm of artistic style",
+            "Improved techniques for training gans",
+            "Least squares generative adversarial networks",
+            "Began: Boundary equilibrium generative adversarial networks",
+            "Wasserstein gan"
+        ],
+        "citationOfCitation": []
+    },
+    "CNNs are Globally Optimal Given Multi-Layer Support": {
+        "citation": [
+            "The loss surface of deep and wide neural networks",
+            "Deep residual learning for image recognition",
+            "Deep Learning",
+            "Convolutional neural networks analyzed via convolutional sparse coding",
+            "Global optimality conditions for deep neural networks",
+            "Deep learning without poor local minima"
+        ],
+        "citationOfCitation": []
+    },
+    "Harmonious Attention Network for Person Re-Identification": {
+        "citation": [
+            "Spatial transformer networks",
+            "Hydraplus-net: Attentive deep features for pedestrian analysis"
+        ],
+        "citationOfCitation": []
+    },
+    "OIL: Observational Imitation Learning": {
+        "citation": [
+            "Trust region policy optimization",
+            "Learning to act by predicting the future",
+            "Reinforcement learning from imperfect demonstrations",
+            "Behavioral cloning from observation",
+            "CARLA: An open urban driving simulator",
+            "Continuous control with deep reinforcement learning",
+            "Reinforcement and imitation learning for diverse visuomotor skills",
+            "Learning to search better than your teacher",
+            "Asynchronous methods for deep reinforcement learning",
+            "Learning physical intuition of block towers by example",
+            "Generative adversarial imitation learning",
+            "Deep drone racing: Learning agile flight in dynamic environments",
+            "Playing for data: Ground truth from computer games"
+        ],
+        "citationOfCitation": []
+    },
+    "Speeding-up Object Detection Training for Robotics with FALKON": {
+        "citation": [
+            "Falkon: An optimal large scale kernel method",
+            "Yolo9000: Better, faster, stronger",
+            "Fast R-CNN",
+            "Ssd: Single shot multibox detector",
+            "Mask r-cnn",
+            "Focal loss for dense object detection"
+        ],
+        "citationOfCitation": []
+    },
+    "Motion-Appearance Co-Memory Networks for Video Question Answering": {
+        "citation": [
+            "Stacked attention networks for image question answering",
+            "Ask me anything: Dynamic memory networks for natural language processing",
+            "Turn tap: Temporal unit regression network for temporal action proposals",
+            "Cascaded boundary regression for temporal action detection",
+            "A focused dynamic attention model for visual question answering",
+            "Multimodal residual learning for visual qa",
+            "Dynamic memory networks for visual and textual question answering",
+            "Deepstory: video story qa by deep embedded memory networks",
+            "Knowledge aided consistency for weakly supervised phrase grounding",
+            "Localizing moments in video with natural language",
+            "Neural module networks",
+            "Visual7w: Grounded question answering in images",
+            "Vqa: Visual question answering",
+            "Visual semantic planning using deep successor representations",
+            "Tall: Temporal activity localization via language query",
+            "Where to look: Focus regions for visual question answering",
+            "Structured attentions for visual question answering",
+            "Marioqa: Answering questions by watching gameplay videos"
+        ],
+        "citationOfCitation": []
+    },
+    "Approximate k-NN Graph Construction: a Generic Online Approach": {
+        "citation": [
+            "Stacked quantizers for compositional vector compression"
+        ],
+        "citationOfCitation": []
+    },
+    "Crafting a Toolchain for Image Restoration by Deep Reinforcement  Learning": {
+        "citation": [
+            "Learning policies for adaptive tracking with deep feature cascades",
+            "Distilling the knowledge in a neural network",
+            "Multiple object recognition with visual attention",
+            "Continuous control with deep reinforcement learning",
+            "Neural architecture search with reinforcement learning",
+            "Recurrent models of visual attention",
+            "Learning dynamic hierarchical models for anytime scene labeling",
+            "Designing neural network architectures using reinforcement learning",
+            "Compressing neural networks with the hashing trick",
+            "Merge or not? learning to group faces via imitation learning",
+            "Memnet: A persistent memory network for image restoration",
+            "Compression artifacts reduction by a deep convolutional network"
+        ],
+        "citationOfCitation": []
+    },
+    "ConnNet: A Long-Range Relation-Aware Pixel-Connectivity Network for  Salient Segmentation": {
+        "citation": [
+            "Visual saliency based on multiscale deep features",
+            "Deep residual learning for image recognition",
+            "The secrets of salient object segmentation",
+            "Fully convolutional networks for semantic segmentation",
+            "Deeply supervised salient object detection with short connections",
+            "Supervised adversarial networks for image saliency detection",
+            "Deep contrast learning for salient object detection",
+            "Simultaneous detection and segmentation",
+            "Mask r-cnn",
+            "Recurrent instance segmentation",
+            "Salgan: Visual saliency prediction with generative adversarial networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Long-Term Human Motion Prediction by Modeling Motion Context and  Enhancing Motion Dynamic": {
+        "citation": [
+            "Recurrent network models for human dynamics",
+            "On human motion prediction using recurrent neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Jointly Optimize Data Augmentation and Network Training: Adversarial  Data Augmentation in Human Pose Estimation": {
+        "citation": [
+            "Human pose estimation using deep consensus voting",
+            "Convolutional pose machines",
+            "Stacked hourglass networks for human pose estimation",
+            "Self adversarial training for human pose estimation",
+            "Human pose estimation via convolutional part heatmap regression",
+            "A-fast-rcnn: Hard positive generation via adversary for object detection",
+            "Learning feature pyramids for human pose estimation",
+            "Human pose estimation with iterative error feedback",
+            "Efficient object localization using convolutional networks",
+            "Deeppose: Human pose estimation via deep neural networks",
+            "Chained predictions using convolutional neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Towards real-time unsupervised monocular depth estimation on CPU": {
+        "citation": [
+            "Deeper depth prediction with fully convolutional residual networks",
+            "Demon: Depth and motion network for learning monocular stereo",
+            "Deepstereo: Learning to predict new views from the world's imagery",
+            "Designing deep networks for surface normal estimation",
+            "Optical flow estimation using a spatial pyramid network",
+            "U-net: Convolutional networks for biomedical image segmentation"
+        ],
+        "citationOfCitation": []
+    },
+    "Autonomous Deep Learning: A Genetic DCNN Designer for Image  Classification": {
+        "citation": [
+            "Designing neural network architectures using reinforcement learning",
+            "Neural architecture search with reinforcement learning",
+            "Evolving deep neural networks",
+            "Pathnet: Evolution channels gradient descent in super neural networks",
+            "Hypernetworks",
+            "Dynamic filter networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Women also Snowboard: Overcoming Bias in Captioning Models (Extended  Abstract)": {
+        "citation": [
+            "Equality of opportunity in supervised learning"
+        ],
+        "citationOfCitation": []
+    },
+    "Predicting Concreteness and Imageability of Words Within and Across  Languages via Word Embeddings": {
+        "citation": [
+            "Ultradense word embeddings by orthogonal transformation"
+        ],
+        "citationOfCitation": []
+    },
+    "SceneEDNet: A Deep Learning Approach for Scene Flow Estimation": {
+        "citation": [
+            "Optical flow estimation using a spatial pyramid network",
+            "Multiframe scene flow with piecewise rigid motion",
+            "Fully convolutional networks for semantic segmentation",
+            "Flownet 2.0: Evolution of optical flow estimation with deep networks",
+            "Flownet: Learning optical flow with convolutional networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Beyond Data and Model Parallelism for Deep Neural Networks": {
+        "citation": [
+            "One weird trick for parallelizing convolutional neural networks",
+            "Neural machine translation by jointly learning to align and translate",
+            "Device placement optimization with reinforcement learning"
+        ],
+        "citationOfCitation": []
+    },
+    "Tracklet Association Tracker: An End-to-End Learning-based Association  Approach for Multi-Object Tracking": {
+        "citation": [
+            "Multiple object tracking: A literature review"
+        ],
+        "citationOfCitation": []
+    },
+    "Time Perception Machine: Temporal Point Processes for the When, Where  and What of Activity Prediction": {
+        "citation": [
+            "Anticipating visual representations from unlabeled video",
+            "Connectionist temporal modeling for weakly supervised action labeling"
+        ],
+        "citationOfCitation": []
+    },
+    "Auto-Classification of Retinal Diseases in the Limit of Sparse Data  Using a Two-Streams Machine Learning Model": {
+        "citation": [
+            "Robustness analysis of visual qa models by basic questions",
+            "Fully convolutional networks for semantic segmentation",
+            "Stacked attention networks for image question answering",
+            "Vqabq: visual question answering by basic questions",
+            "Classification constrained dimensionality reduction",
+            "A novel framework for robustness analysis of visual qa models",
+            "U-net: Convolutional networks for biomedical image segmentation",
+            "Neural machine translation by jointly learning to align and translate",
+            "Vqa: Visual question answering"
+        ],
+        "citationOfCitation": []
+    },
+    "Ithemal: Accurate, Portable and Fast Basic Block Throughput Estimation  using Deep Neural Networks": {
+        "citation": [
+            "Hierarchical multiscale recurrent neural networks",
+            "Linguistic Knowledge as Memory for Recurrent Neural Networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Deep Generative Video Compression": {
+        "citation": [
+            "Variable rate image compression with recurrent neural networks",
+            "Full resolution image compression with recurrent neural networks",
+            "Disentangled sequential autoencoder",
+            "Stochastic dynamics for video infilling",
+            "Learning stochastic recurrent networks",
+            "Generative compression",
+            "Stochastic adversarial video prediction",
+            "Learning for video compression",
+            "Stochastic variational video prediction",
+            "Probabilistic video generation using holistic attribute control",
+            "A recurrent latent variable model for sequential data",
+            "Generating videos with scene dynamics",
+            "Variational image compression with a scale hyperprior",
+            "Video compression through image interpolation",
+            "Stochastic video generation with a learned prior"
+        ],
+        "citationOfCitation": []
+    },
+    "4D Human Body Correspondences from Panoramic Depth Maps": {
+        "citation": [
+            "Dense human body correspondences using convolutional networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Online Diverse Learning to Rank from Partial-Click Feedback": {
+        "citation": [
+            "Combinatorial cascading bandits",
+            "DCM bandits: Learning to rank with multiple clicks",
+            "Cascading bandits: Learning to rank in the cascade model"
+        ],
+        "citationOfCitation": []
+    },
+    "Interpretable Credit Application Predictions With Counterfactual  Explanations": {
+        "citation": [
+            "A survey of methods for explaining black box models",
+            "A unified approach to interpreting model predictions",
+            "Adversarial examples in the physical world",
+            "Prototype selection for interpretable classification"
+        ],
+        "citationOfCitation": []
+    },
+    "Deep Object-Centric Policies for Autonomous Driving": {
+        "citation": [
+            "Conditional affordance learning for driving in urban environments",
+            "An empirical evaluation of deep learning on highway driving",
+            "Driving policy transfer via modularity and abstraction"
+        ],
+        "citationOfCitation": []
+    },
+    "IGNOR: Image-guided Neural Object Rendering": {
+        "citation": [
+            "Deep Video Portraits",
+            "Everybody Dance Now",
+            "View extrapolation of human body from a single image",
+            "View synthesis by appearance flow"
+        ],
+        "citationOfCitation": []
+    },
+    "Deep Hierarchical Machine: a Flexible Divide-and-Conquer Architecture": {
+        "citation": [
+            "Faster cnns with direct sparse convolutions and guided pruning",
+            "A fast and accurate unconstrained face detector",
+            "Deep regression forests for age estimation",
+            "Local binary convolutional neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Point-to-Pose Voting based Hand Pose Estimation using Residual  Permutation Equivariant Layer": {
+        "citation": [
+            "Training a feedback loop for hand pose estimation",
+            "Dynamic graph cnn for learning on point clouds",
+            "3d shapenets: A deep representation for volumetric shapes",
+            "Hands deep in deep learning for hand pose estimation",
+            "Hand3d: Hand pose estimation using 3d neural network",
+            "Pointwise convolutional neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "A Structured Model For Action Detection": {
+        "citation": [
+            "Visual semantic role labeling",
+            "Tube convolutional neural network (T-CNN) for action detection in videos",
+            "Detect to track and track to detect",
+            "Microsoft COCO: Common objects in context",
+            "Learning spatiotemporal features with 3d convolutional networks",
+            "Going deeper with convolutions",
+            "A simple neural network module for relational reasoning",
+            "Quo vadis, action recognition? a new model and the kinetics dataset",
+            "Mask R-CNN",
+            "Siamese instance search for tracking",
+            "Object level visual reasoning in videos",
+            "Finding action tubes",
+            "SSD: Single shot multibox detector",
+            "Fast R-CNN"
+        ],
+        "citationOfCitation": []
+    },
+    "Human Pose and Path Estimation from Aerial Video using Dynamic  Classifier Selection": {
+        "citation": [
+            "Stacked Hourglass Networks for Human Pose Estimation",
+            "How transferable are features in deep neural networks?",
+            "Learning a Deep Model for Human Action Recognition from Novel Viewpoints",
+            "Convolutional Pose Machines"
+        ],
+        "citationOfCitation": []
+    },
+    "Sepsis Prediction and Vital Signs Ranking in Intensive Care Unit  Patients": {
+        "citation": [
+            "Benchmark of deep learning models on large healthcare mimic datasets",
+            "Multitask learning and benchmarking with clinical time series data"
+        ],
+        "citationOfCitation": []
+    },
+    "I Can See Clearly Now : Image Restoration via De-Raining": {
+        "citation": [
+            "Waterdrop stereo",
+            "Recurrent models of visual attention"
+        ],
+        "citationOfCitation": []
+    },
+    "Light-Field for RF": {
+        "citation": [
+            "Lensless imaging with compressive ultrafast sensing",
+            "Position tracking for virtual reality using commodity wifi"
+        ],
+        "citationOfCitation": []
+    },
+    "Label Efficient Semi-Supervised Learning via Graph Filtering": {
+        "citation": [
+            "Deep learning on graphs: A survey",
+            "Inductive representation learning on large graphs",
+            "Graph attention networks",
+            "Spectral networks and locally connected networks on graphs",
+            "Geometric deep learning on graphs and manifolds using mixture model cnns",
+            "Deep graph infomax",
+            "Convolutional networks on graphs for learning molecular fingerprints",
+            "Deepwalk: Online learning of social representations",
+            "Graph neural networks: A review of methods and applications"
+        ],
+        "citationOfCitation": []
+    },
+    "Parallel Contextual Bandits in Wireless Handover Optimization": {
+        "citation": [
+            "Hyperparameter optimization with approximate gradient",
+            "Multiarmed bandit problems with delayed feedback",
+            "Batch bayesian optimization via local penalization",
+            "Stochastic bandit models for delayed conversions",
+            "The parallel knowledge gradient method for batch bayesian optimization",
+            "Batched bandit problems",
+            "Online learning under delayed feedback"
+        ],
+        "citationOfCitation": []
+    },
+    "Polyphonic Music Composition with LSTM Neural Networks and Reinforcement  Learning": {
+        "citation": [
+            "Ai methods in algorithmic composition: A comprehensive survey",
+            "Deepbach: a steerable model for bach chorales generation",
+            "Algorithmic composition of melodies with deep recurrent neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "GCN-LASE: Towards Adequately Incorporating Link Attributes in Graph  Convolutional Networks": {
+        "citation": [
+            "Spectral networks and locally connected networks on graphs",
+            "Graph kernels",
+            "Learning convolutional neural networks for graphs",
+            "Sepne: Bringing separability to network embedding",
+            "Deepwalk: online learning of social representations",
+            "node2vec: Scalable feature learning for networks",
+            "Adaptive sampling towards fast graph representation learning",
+            "Deriving neural architectures from sequence and graph kernels",
+            "Struc2vec: Learning node representations from structural identity",
+            "Inductive representation learning on large graphs"
+        ],
+        "citationOfCitation": []
+    },
+    "Towards Learning Abstract Representations for Locomotion Planning in  High-dimensional State Spaces": {
+        "citation": [
+            "Universal planning networks",
+            "Value iteration networks",
+            "QMDP-Net: Deep learning for planning under partial observability"
+        ],
+        "citationOfCitation": []
+    },
+    "Reinforcement Learning with Dynamic Boltzmann Softmax Updates": {
+        "citation": [
+            "Reinforcement learning: A survey",
+            "Dynamic policy programming",
+            "Increasing the action gap: New operators for reinforcement learning"
+        ],
+        "citationOfCitation": []
+    },
+    "Learning Quadrangulated Patches For 3D Shape Processing": {
+        "citation": [
+            "3d shapenets: A deep representation for volumetric shapes",
+            "Context encoders: Feature learning by inpainting",
+            "Octnet: Learning deep 3d representations at high resolutions",
+            "Octnetfusion: Learning depth fusion from data"
+        ],
+        "citationOfCitation": []
+    },
+    "Cooperative Multi-Agent Reinforcement Learning Framework for Scalping  Trading": {
+        "citation": [
+            "Deep Recurrent Q-Learning for Partially Observable MDPs",
+            "Playing Atari with Deep Reinforcement Learning",
+            "Cryptocurrency Portfolio Management with Deep Reinforcement Learning"
+        ],
+        "citationOfCitation": []
+    },
+    "Generic Multiview Visual Tracking": {
+        "citation": [
+            "Unveiling the power of deep tracking",
+            "Eco: Efficient convolution operators for tracking",
+            "Dcfnet: Discriminant correlation filters network for visual tracking",
+            "Siamese instance search for tracking",
+            "Discriminative scale space tracking"
+        ],
+        "citationOfCitation": []
+    },
+    "Improving Dialogue State Tracking by Discerning the Relevant Context": {
+        "citation": [
+            "Robust dialog state tracking for large ontologies"
+        ],
+        "citationOfCitation": []
+    },
+    "Audio Source Separation via Multi-Scale Learning with Dilated Dense  U-Nets": {
+        "citation": [
+            "Densely connected convolutional networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Pushing the Envelope for RGB-based Dense 3D Hand Pose Estimation via  Neural Rendering": {
+        "citation": [
+            "Neural 3D mesh renderer",
+            "Learning to estimate 3D hand pose from single RGB images",
+            "DensePose: Dense human pose estimation in the wild",
+            "Hand pose estimation via latent 2.5D heatmap regression",
+            "Learning to estimate 3D human pose and shape from a single color image",
+            "OctNet: Learning deep 3D representations at high resolutions",
+            "Hand keypoint detection in single images using multiview bootstrapping"
+        ],
+        "citationOfCitation": []
+    },
+    "Private Hierarchical Clustering and Efficient Approximation": {
+        "citation": [
+            "Cryptodl: Deep neural networks over encrypted data",
+            "Membership inference attacks against machine learning models",
+            "Deep learning with differential privacy",
+            "Gazelle: A low latency framework for secure neural network inference"
+        ],
+        "citationOfCitation": []
+    },
+    "BoLTVOS: Box-Level Tracking for Video Object Segmentation": {
+        "citation": [
+            "Efficient video object segmentation via network modulation",
+            "Fast online object tracking and segmentation: A unifying approach",
+            "Vision meets drones: A challenge",
+            "Video object segmentation without temporal information",
+            "Fast and accurate online video object segmentation via tracking parts",
+            "Videomatch: Matching based video object segmentation"
+        ],
+        "citationOfCitation": []
+    },
+    "CondConv: Conditionally Parameterized Convolutions for Efficient  Inference": {
+        "citation": [
+            "Pay less attention with lightweight and dynamic convolutions",
+            "Contextual parameter generation for universal neural machine translation",
+            "Hypernetworks",
+            "Aggregated residual transformations for deep neural networks",
+            "Going deeper with convolutions",
+            "Hard mixtures of experts for large scale weakly supervised vision",
+            "Splinenets: Continuous neural decision graphs",
+            "Deformable convolutional networks",
+            "Conditional computation in neural networks for faster models",
+            "Blockdrop: Dynamic inference paths in residual networks",
+            "Dynamic filter networks",
+            "Deciding how to decide: Dynamic routing in artificial neural networks",
+            "Attention is all you need",
+            "Skipnet: Learning dynamic routing in convolutional networks",
+            "Neural machine translation by jointly learning to align and translate",
+            "Pathnet: Evolution channels gradient descent in super neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Simple yet efficient real-time pose-based action recognition": {
+        "citation": [
+            "Adversarial Discriminative Domain Adaptation",
+            "CARLA: An Open Urban Driving Simulator"
+        ],
+        "citationOfCitation": []
+    },
+    "Spatial-Temporal Relation Networks for Multi-Object Tracking": {
+        "citation": [
+            "A simple neural network module for relational reasoning",
+            "Interaction networks for learning about objects, relations and physics",
+            "Attention is all you need",
+            "Learning by tracking: Siamese cnn for robust target association",
+            "Relation networks for object detection"
+        ],
+        "citationOfCitation": []
+    },
+    "Collaborative and Privacy-Preserving Machine Teaching via Consensus  Optimization": {
+        "citation": [
+            "The teaching dimension of linear learners",
+            "Iterative machine teaching",
+            "Learning to teach",
+            "Federated learning: Strategies for improving communication efficiency",
+            "Data poisoning attacks in contextual bandits",
+            "Teacher improves learning by selecting a training subset",
+            "Machine teaching for bayesian learners in the exponential family",
+            "Analyzing federated learning through an adversarial lens",
+            "Teaching inverse reinforcement learners via features and demonstrations"
+        ],
+        "citationOfCitation": []
+    },
+    "Adaptive Stochastic Natural Gradient Method for One-Shot Neural  Architecture Search": {
+        "citation": [
+            "SNAS: Stochastic Neural Architecture Search",
+            "Efficient Neural Architecture Search via Parameter Sharing",
+            "DARTS: Differentiable Architecture Search"
+        ],
+        "citationOfCitation": []
+    },
+    "CDSA: Cross-Dimensional Self-Attention for Multivariate, Geo-tagged Time  Series Imputation": {
+        "citation": [
+            "Fixed point and bregman iterative methods for matrix rank minimization",
+            "Stacked attention networks for image question answering",
+            "Brits: Bidirectional recurrent imputation for time series",
+            "A singular value thresholding algorithm for matrix completion",
+            "Attention is all you need",
+            "Graph attention networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Why do These Match? Explaining the Behavior of Image Similarity Models": {
+        "citation": [
+            "Interpretable explanations of black boxes by meaningful perturbation",
+            "Understanding neural networks through deep visualization",
+            "Grounding visual explanations",
+            "\"why should i trust you?\": Explaining the predictions of any classifier",
+            "Learning Deep Features for Discriminative Localization",
+            "Visualizing and understanding convolutional networks",
+            "Generating visual explanations",
+            "Explaining image classifiers by counterfactual generation"
+        ],
+        "citationOfCitation": []
+    },
+    "Towards Real Scene Super-Resolution with Raw Images": {
+        "citation": [
+            "Learning the image processing pipeline",
+            "Learning to see in the dark"
+        ],
+        "citationOfCitation": []
+    },
+    "Semi-Implicit Generative Model": {
+        "citation": [
+            "Mode regularized generative adversarial networks",
+            "On distinguishability criteria for estimating generative models",
+            "Adversarially learned inference",
+            "Improved generator objectives for gans",
+            "Adversarial feature learning",
+            "Adagan: Boosting generative models",
+            "Generalization and equilibrium in generative adversarial nets (gans)",
+            "Unrolled generative adversarial networks",
+            "Wasserstein gan"
+        ],
+        "citationOfCitation": []
+    },
+    "Are Labels Required for Improving Adversarial Robustness?": {
+        "citation": [
+            "Robustness to Adversarial Perturbations in Learning from Incomplete Data",
+            "Adversarial risk and the dangers of evaluating against weak attacks",
+            "Unlabeled Data Improves Adversarial Robustness",
+            "Adversarially Robust Generalization Just Requires More Unlabeled Data",
+            "Wide residual networks",
+            "Adversarially Robust Generalization Requires More Data",
+            "Adversarial Machine Learning at Scale",
+            "Improved generalization bounds for robust learning",
+            "Intriguing properties of neural networks",
+            "Towards deep neural network architectures robust to adversarial examples",
+            "Rademacher complexity for adversarially robust generalization",
+            "Explaining and harnessing adversarial examples",
+            "Evasion attacks against machine learning at test time",
+            "Towards Deep Learning Models Resistant to Adversarial Attacks"
+        ],
+        "citationOfCitation": []
+    },
+    "Know More about Each Other: Evolving Dialogue Strategy via Compound  Assessment": {
+        "citation": [
+            "A neural conversational model",
+            "Deep reinforcement learning for dialogue generation"
+        ],
+        "citationOfCitation": []
+    },
+    "Approximation capability of neural networks on spaces of probability  measures and tree-structured domains": {
+        "citation": [
+            "Learning from distributions via support measure machines",
+            "Order matters: Sequence to sequence for sets"
+        ],
+        "citationOfCitation": []
+    },
+    "Compact Approximation for Polynomial of Covariance Feature": {
+        "citation": [
+            "Improved bilinear pooling with cnns",
+            "Random feature maps for dot product kernels",
+            "Compact bilinear pooling",
+            "Monet: Moments embedding network"
+        ],
+        "citationOfCitation": []
+    },
+    "AutoGrow: Automatic Layer Growing in Deep Convolutional Networks": {
+        "citation": [
+            "Condensenet: An efficient densenet using learned group convolutions",
+            "Evolving deep neural networks",
+            "Adanet: Adaptive structural learning of artificial neural networks",
+            "Channel pruning for accelerating very deep neural networks",
+            "Learning structured sparsity in deep neural networks",
+            "Cgap: Continuous growth and pruning for efficient deep learning",
+            "Nonparametric neural networks",
+            "Hierarchical representations for efficient architecture search",
+            "Neural architecture search with reinforcement learning",
+            "Darts: Differentiable architecture search",
+            "Progressive neural architecture search",
+            "Convolutional neural fabrics",
+            "Pruning filters for efficient convnets",
+            "Learning transferable architectures for scalable image recognition",
+            "Learning efficient convolutional networks through network slimming",
+            "Efficient neural architecture search via parameter sharing"
+        ],
+        "citationOfCitation": []
+    },
+    "Volumetric Isosurface Rendering with Deep Learning-Based  Super-Resolution": {
+        "citation": [
+            "Deep residual learning for image recognition",
+            "Densely connected convolutional networks"
+        ],
+        "citationOfCitation": []
+    },
+    "BitcoinHeist: Topological Data Analysis for Ransomware Detection on the  Bitcoin Blockchain": {
+        "citation": [
+            "Obfuscation in bitcoin: Techniques and politics",
+            "Ransomware payments in the bitcoin ecosystem"
+        ],
+        "citationOfCitation": []
+    },
+    "PABO: Pseudo Agent-Based Multi-Objective Bayesian Hyperparameter  Optimization for Efficient Neural Accelerator Design": {
+        "citation": [
+            "Practical bayesian optimization of machine learning algorithms"
+        ],
+        "citationOfCitation": []
+    },
+    "3D Surface Reconstruction from Voxel-based Lidar Data": {
+        "citation": [
+            "Computational fluid dynamics on 3D point set surfaces"
+        ],
+        "citationOfCitation": []
+    },
+    "Data Augmentation for Instrument Classification Robust to Audio Effects": {
+        "citation": [
+            "Deep learning",
+            "Neural audio synthesis of musical notes with wavenet autoencoders"
+        ],
+        "citationOfCitation": []
+    },
+    "Maximizing Stylistic Control and Semantic Accuracy in NLG: Personality  Variation and Discourse Contrast": {
+        "citation": [
+            "Toward controlled generation of text",
+            "Controlling linguistic style aspects in neural language generation"
+        ],
+        "citationOfCitation": []
+    },
+    "LEAF-QA: Locate, Encode & Attend for Figure Question Answering": {
+        "citation": [
+            "Neural module networks",
+            "Scatteract: Automated extraction of data from scatter plots",
+            "Inferring and executing programs for visual reasoning",
+            "Stacked attention networks for image question answering",
+            "Fast r-cnn",
+            "Mask r-cnn",
+            "Exploring models and data for image question answering",
+            "Visual7w: Grounded question answering in images",
+            "Ssd: Single shot multibox detector",
+            "Vqa: Visual question answering"
+        ],
+        "citationOfCitation": []
+    },
+    "Learning the Model Update for Siamese Trackers": {
+        "citation": [
+            "Correlation filters with limited boundaries",
+            "Eco: efficient convolution operators for tracking",
+            "Learning dynamic memory networks for object tracking",
+            "Learning to track at 100 fps with deep regression networks",
+            "Learning spatially regularized correlation filters for visual tracking"
+        ],
+        "citationOfCitation": []
+    },
+    "Neural Dynamics on Complex Networks": {
+        "citation": [
+            "Deep residual learning for image recognition",
+            "Data driven governing equations approximation using deep neural networks",
+            "Can recurrent neural networks warp time?",
+            "Deep neural networks motivated by partial differential equations",
+            "Neural ordinary differential equations",
+            "Deep learning as optimal control problems: models and numerical methods",
+            "A comprehensive survey on graph neural networks",
+            "Graph attention networks",
+            "Augmented neural odes"
+        ],
+        "citationOfCitation": []
+    },
+    "Learning Priors for Adversarial Autoencoders": {
+        "citation": [
+            "Vae with a vampprior",
+            "Adversarial autoencoders"
+        ],
+        "citationOfCitation": []
+    },
+    "Finding Generalizable Evidence by Learning to Convince Q&A Models": {
+        "citation": [
+            "AI safety via debate",
+            "Understanding neural networks through representation erasure",
+            "Rationalizing neural predictions"
+        ],
+        "citationOfCitation": []
+    },
+    "Boosting Real-Time Driving Scene Parsing with Shared Semantics": {
+        "citation": [
+            "Flownet: Learning optical flow with convolutional networks",
+            "Pyramid scene parsing network",
+            "Dynamic video segmentation network",
+            "Fully convolutional networks for semantic segmentation",
+            "Searching for mobilenetv3",
+            "Video scene parsing with predictive feature learning"
+        ],
+        "citationOfCitation": []
+    },
+    "Course Concept Expansion in MOOCs with External Knowledge and  Interactive Game": {
+        "citation": [
+            "Term set expansion based nlp architect by intel ai lab"
+        ],
+        "citationOfCitation": []
+    },
+    "Multiple Human Tracking using Multi-Cues including Primitive Action  Features": {
+        "citation": [
+            "Learning spatiotemporal features with 3D convolutional networks",
+            "Finding action tubes",
+            "Single shot temporal action detection",
+            "Tube convolutional neural network (T-CNN) for action detection in videos",
+            "Simple online and realtime tracking with a deep association metric"
+        ],
+        "citationOfCitation": []
+    },
+    "Semantically Interpretable Activation Maps: what-where-how explanations  within CNNs": {
+        "citation": [
+            "Teaching compositionality to cnns",
+            "Single image action recognition using semantic body part actions",
+            "Semantic bottleneck for computer vision tasks",
+            "Methods for interpreting and understanding deep neural networks",
+            "GradMask: Reduce overfitting by regularizing saliency",
+            "Learning deep features for discriminative localization",
+            "Interpretable convolutional neural networks",
+            "Visualizing and understanding convolutional networks",
+            "Do semantic parts emerge in convolutional neural networks?",
+            "Grounding visual explanations",
+            "Generating visual explanations"
+        ],
+        "citationOfCitation": []
+    },
+    "Using Synthetic Data and Deep Networks to Recognize Primitive Shapes for  Object Grasping": {
+        "citation": [
+            "Jacquard: A large scale dataset for robotic grasp detection",
+            "Deep learning for detecting robotic grasps",
+            "Mask r-cnn",
+            "Classification based grasp detection using spatial transformer network"
+        ],
+        "citationOfCitation": []
+    },
+    "Playing Atari Ball Games with Hierarchical Reinforcement Learning": {
+        "citation": [
+            "Learning abstract options",
+            "Stochastic neural networks for hierarchical reinforcement learning",
+            "Feudal networks for hierarchical reinforcement learning",
+            "Hierarchical imitation and reinforcement learning",
+            "Reinforcement learning with unsupervised auxiliary tasks",
+            "A laplacian framework for option discovery in reinforcement learning",
+            "Deep abstract q-networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Reinforcement Learning for Multi-Objective Optimization of Online  Decisions in High-Dimensional Systems": {
+        "citation": [
+            "Trust region policy optimization",
+            "Learning action representations for reinforcement learning",
+            "Continuous control with deep reinforcement learning",
+            "Deep reinforcement learning with double q-learning",
+            "Overcoming exploration in reinforcement learning with demonstrations",
+            "Proximal policy optimization algorithms",
+            "Imitation learning with concurrent actions in 3d games",
+            "Action branching architectures for deep reinforcement learning"
+        ],
+        "citationOfCitation": []
+    },
+    "LIT: Light-field Inference of Transparency for Refractive Object  Localization": {
+        "citation": [
+            "Robust 6D object pose estimation with stochastic congruent sets",
+            "Sum: Sequential scene understanding and manipulation",
+            "Glassloc: Plenoptic grasp pose detection in transparent clutter",
+            "Densefusion: 6d object pose estimation by iterative dense fusion",
+            "Implicit 3d orientation learning for 6d object detection from rgb images",
+            "Deepim: Deep iterative matching for 6d pose estimation"
+        ],
+        "citationOfCitation": []
+    },
+    "Accelerating Data Loading in Deep Neural Network Training": {
+        "citation": [
+            "Image classification at supercomputer scale",
+            "Exascale deep learning for climate analytics"
+        ],
+        "citationOfCitation": []
+    },
+    "Text Level Graph Neural Network for Text Classification": {
+        "citation": [
+            "Graph neural networks: A review of methods and applications",
+            "Inductive representation learning on large graphs",
+            "Learning combinatorial optimization algorithms over graphs",
+            "Graph attention networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Representation Learning with Statistical Independence to Mitigate Bias": {
+        "citation": [
+            "Delayed impact of fair machine learning",
+            "Mimetics: Towards understanding human actions out of context",
+            "Fairness in machine learning",
+            "Invariant representations without adversarial training",
+            "Adversarial discriminative domain adaptation",
+            "Mitigating unwanted biases with adversarial learning",
+            "How to be fair and diverse?",
+            "Flexibly fair representation learning by disentanglement",
+            "Controllable invariance through adversarial feature learning",
+            "Censoring representations with an adversary",
+            "Adversarial removal of demographic attributes from text data",
+            "Fairness without demographics in repeated loss minimization",
+            "On the global optima of kernelized adversarial representation learning",
+            "Learning controllable fair representations"
+        ],
+        "citationOfCitation": []
+    },
+    "Deep localization of protein structures in fluorescence microscopy  images": {
+        "citation": [
+            "Deep residual learning for image recognition",
+            "Dynamic routing between capsules",
+            "Aggregated residual transformations for deep neural networks",
+            "Deep pyramidal residual networks",
+            "Wide residual networks"
+        ],
+        "citationOfCitation": []
+    },
+    "Adversarial Colorization Of Icons Based On Structure And Color  Conditions": {
+        "citation": [
+            "Unsupervised diverse colorization via generative adversarial networks",
+            "Improved training of wasserstein gans",
+            "Conditional generative adversarial nets",
+            "Attribute2image: Conditional image generation from visual attributes",
+            "Improved techniques for training gans",
+            "Generative image modeling using style and structure adversarial networks",
+            "Fader networks: Manipulating images by sliding attributes",
+            "Autoencoding beyond pixels using a learned similarity metric",
+            "Spectral normalization for generative adversarial networks",
+            "Adversarial feature learning",
+            "BEGAN: boundary equilibrium generative adversarial networks",
+            "Mocogan: Decomposing motion and content for video generation"
+        ],
+        "citationOfCitation": []
+    },
+    "Neural Generation for Czech: Data and Baselines": {
+        "citation": [
+            "Topic Aware Neural Response Generation"
+        ],
+        "citationOfCitation": []
+    },
+    "PRS-Net: Planar Reflective Symmetry Detection Net for 3D Models": {
+        "citation": [
+            "Learning shape abstractions by assembling volumetric primitives",
+            "Octnet: Learning deep 3d representations at high resolutions",
+            "3d shapenets: A deep representation for volumetric shapes",
+            "Learning a predictable and generative vector representation for objects"
+        ],
+        "citationOfCitation": []
+    },
+    "Learning Deterministic Weighted Automata with Queries and  Counterexamples": {
+        "citation": [
+            "A maximum matching algorithm for basis selection in spectral learning",
+            "A bit of progress in language modeling",
+            "A spectral algorithm for learning hidden markov models",
+            "Explaining black boxes on sequential data using weighted automata"
+        ],
+        "citationOfCitation": []
+    },
+    "Machine Translation of Restaurant Reviews: New Corpus for Domain  Adaptation and Robustness": {
+        "citation": [
+            "MTNT: A Testbed for Machine Translation of Noisy Text",
+            "Findings of the First Shared Task on Machine Translation Robustness",
+            "Synthetic and Natural Noise Both Break Neural Machine Translation",
+            "Improving Robustness of Machine Translation with Synthetic Noise",
+            "Fast Domain Adaptation for Neural Machine Translation",
+            "Improving Neural Machine Translation Models with Monolingual Data",
+            "Domain Control for Neural Machine Translation"
+        ],
+        "citationOfCitation": []
+    },
+    "MRNN: A Multi-Resolution Neural Network with Duplex Attention for  Document Retrieval in the Context of Question Answering": {
+        "citation": [
+            "Deep learning for answer sentence selection",
+            "A simple neural network module for relational reasoning",
+            "Attentive pooling networks",
+            "Distributed representations of sentences and documents",
+            "Quasar: Datasets for question answering by search and reading"
+        ],
+        "citationOfCitation": []
+    },
+    "Coreference Resolution as Query-based Span Prediction": {
+        "citation": [
+            "The natural language decathlon: Multitask learning as question answering",
+            "A unified mrc framework for named entity recognition",
+            "Learning global features for coreference resolution"
+        ],
+        "citationOfCitation": []
+    },
+    "Improving Transformer Models by Reordering their Sublayers": {
+        "citation": [
+            "The evolved transformer",
+            "EfficientNet: Rethinking model scaling for convolutional neural networks"
+        ],
+        "citationOfCitation": []
+    },
+    "vqSGD: Vector Quantized Stochastic Gradient Descent": {
+        "citation": [
+            "Distributed learning with sublinear communication",
+            "Distributed mean estimation with limited communication",
+            "Deep learning with differential privacy",
+            "Error feedback fixes signSGD and other gradient compression schemes",
+            "The convergence of sparsified gradient methods",
+            "Sparsified SGD with memory"
+        ],
+        "citationOfCitation": []
+    },
+    "Decision Making for Autonomous Driving via Augmented Adversarial Inverse  Reinforcement Learning": {
+        "citation": [
+            "Imitating driver behavior with generative adversarial networks",
+            "Continuous control with deep reinforcement learning",
+            "Generative adversarial imitation learning",
+            "Learning robust rewards with adversarial inverse reinforcement learning"
+        ],
+        "citationOfCitation": []
+    },
+    "Time-aware Gradient Attack on Dynamic Network Link Prediction": {
+        "citation": [
+            "E-lstm-d: A deep learning framework for dynamic network link prediction",
+            "Attack graph convolutional networks by adding fake nodes",
+            "Deepwalk: Online learning of social representations",
+            "Hiding individuals and communities in a social network",
+            "Fast gradient attack on network embedding",
+            "Adversarial attacks on neural networks for graph data",
+            "Data poisoning attack against unsupervised node embedding methods"
+        ],
+        "citationOfCitation": []
+    },
+    "Extracting deep local features to detect manipulated images of human  faces": {
+        "citation": [
+            "Mesonet: a compact facial video forgery detection network",
+            "Exposing deepfake videos by detecting face warping artifacts",
+            "Exposing deep fakes using inconsistent head poses"
+        ],
+        "citationOfCitation": []
+    },
+    "The Group Loss for Deep Metric Learning": {
+        "citation": [
+            "Divide and conquer the embedding space for metric learning",
+            "Facenet: A unified embedding for face recognition and clustering",
+            "Deep metric learning with hierarchical triplet loss",
+            "No fuss distance metric learning using proxies",
+            "Sampling matters in deep embedding learning",
+            "Deep metric learning via lifted structured feature embedding",
+            "Deep randomized ensembles for metric learning",
+            "Deep metric learning via facility location",
+            "Deep metric learning with angular loss"
+        ],
+        "citationOfCitation": []
+    },
+    "Spatio-Temporal Pyramid Graph Convolutions for Human Action Recognition  and Postural Assessment": {
+        "citation": [
+            "A closer look at spatiotemporal convolutions for action recognition",
+            "Learning spatiotemporal features with 3d convolutional networks",
+            "UCF101: A dataset of 101 human actions classes from videos in the wild",
+            "Quo vadis, action recognition? a new model and the kinetics dataset",
+            "A comprehensive survey on graph neural networks",
+            "Temporal convolutional networks for action segmentation and detection"
+        ],
+        "citationOfCitation": []
+    },
+    "Spatial-Angular Interaction for Light Field Image Super-Resolution": {
+        "citation": [
+            "Deep residual learning for image recognition",
+            "Densely connected convolutional networks",
+            "A deep journey into super-resolution: A survey",
+            "Deep learning for image super-resolution: A survey",
+            "Deep learning for single image super-resolution: A brief review"
+        ],
+        "citationOfCitation": []
+    },
+    "A Closer Look at Mobile App Usage as a Persistent Biometric: A Small  Case Study": {
+        "citation": [
+            "Continuous authentication of smartphones based on application usage"
+        ],
+        "citationOfCitation": []
+    },
+    "Domain Adaptation Regularization for Spectral Pruning": {
+        "citation": [
+            "Deep learning with limited numerical precision",
+            "Pruning convolutional neural networks for resource efficient inference",
+            "Dynamic network surgery for efficient dnns",
+            "Do deep nets really need to be deep?",
+            "Target aware network adaptation for efficient representation learning",
+            "Learning the number of neurons in deep networks",
+            "Model compression",
+            "Compressing deep convolutional networks using vector quantization",
+            "Quantized convolutional neural networks for mobile devices",
+            "Distilling the knowledge in a neural network",
+            "FitNets: Hints for thin deep nets"
+        ],
+        "citationOfCitation": []
+    },
+    "Modeling ASR Ambiguity for Dialogue State Tracking Using Word Confusion  Networks": {
+        "citation": [
+            "Towards universal dialogue state tracking"
+        ],
+        "citationOfCitation": []
+    }
+}

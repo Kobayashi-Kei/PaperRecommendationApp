@@ -1,0 +1,7 @@
+[
+    {
+        "source": "Hessian-free (HF) optimization has been successfully used for training deep autoencoders and recurrent networks. HF uses the conjugate gradient algorithm to construct update directions through curvature-vector products that can be computed on the same order of time as gradients.",
+        "pos": "The performance of stochastic gradient descent (SGD) depends critically on how learning rates are tuned and decreased over time.",
+        "neg": "We present OctNet, a representation for deep learning with sparse 3D data. In contrast to existing models, our representation enables 3D convolutional networks which are both deep and high resolution."
+    }
+]
