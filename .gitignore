@@ -107,3 +107,4 @@ dist
 .DS_Store
 *.pyc
 nohup.out
+.vscode
